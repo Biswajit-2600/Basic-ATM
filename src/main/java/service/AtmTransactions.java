@@ -1,4 +1,10 @@
-package atm;
+package service;
+
+import interface_atm.AtmInterface;
+import database.AccountDatabase;
+import structure.Account;
+import structure.Customer;
+import structure.DebitCard;
 
 import java.util.Map;
 import java.util.Scanner;

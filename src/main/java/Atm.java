@@ -1,4 +1,9 @@
-package atm;
+import interface_atm.AtmInterface;
+import database.AccountDatabase;
+import service.AtmTransactions;
+import structure.Account;
+import structure.Customer;
+import structure.DebitCard;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

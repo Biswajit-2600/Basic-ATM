@@ -1,4 +1,4 @@
-package atm;
+package structure;
 
 public class Customer {
     private int customerId;

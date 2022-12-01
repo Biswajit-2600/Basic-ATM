@@ -1,4 +1,8 @@
-package atm;
+package database;
+
+import structure.Account;
+import structure.Customer;
+import structure.DebitCard;
 
 import java.util.HashMap;
 import java.util.Map;

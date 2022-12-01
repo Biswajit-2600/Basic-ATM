@@ -1,4 +1,4 @@
-package atm;
+package structure;
 
 public class DebitCard extends Customer {
     private int pin, customerId, cardNumber;

@@ -1,4 +1,4 @@
-package atm;
+package structure;
 
 public class Account {
     private int accNumber, customerId;
